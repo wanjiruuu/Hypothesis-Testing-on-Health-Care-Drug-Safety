@@ -1,5 +1,4 @@
-# Hypothesis-Testing-on-Health-Care-Drug-Safety
-Conducting several hypothesis tests using Python to determine if the adverse reactions of a hypothetical drug are significant as well as checking if factors such as age significantly influence the adverse reactions.
+# Hypothesis Testing on Health-Care: Drug-Safety
 
 Pharmaceutical drugs have become an essential part of our health. Therefore, they need to be safe with little or no adverse effects.
 In this project the main task is to conduct several hypothesis tests using Python to determine if the adverse reactions of a hypothetical drug are significant. 
